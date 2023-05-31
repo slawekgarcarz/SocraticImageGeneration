@@ -353,64 +353,6 @@ While our initial results underlined the feasibility of the proposed approach, p
 > *"We cannot live better than in seeking to become better."* - Socrates
 > 
 
-## Contributors
-
-### Jona Ruthardt
-
-- **Focus:**
-    - Pipeline
-    - Evaluation
-    - Datasets
-    - Blogpost
-- **Other contributions:**
-    - Research Proposal
-    - Experiments
-    - Ablation Study
-    - Poster
-
-### Theodora-Mara Pîslar
-
-- **Focus:**
-    - Image-to-Text
-    - Evaluation
-- **Other contributions:**
-    - Experiments
-    - Ablation Study
-    - Blogpost
-
-### Valentinos Pariza
-
-- **Focus:**
-    - Pipeline
-    - Text-to-Image
-    - Evaluation
-- **Other contributions:**
-    - Datasets
-    - Experiments
-    - Blogpost
-
-### Andreas Giorkatzi
-
-- **Focus:**
-    - LLMs
-    - Evaluation
-    - Demo Notebook
-- **Other contributions:**
-    - Experiments
-    - Ablation Study
-    - Blogpost
-
-### Sławomir Garcarz
-
-- **Focus:**
-    - LLMs
-    - Evaluation
-    - Datasets
-- **Other contributions:**
-    - Experiments
-    - Ablation Study
-    - Blogpost
-
 # Appendix
 ## Computational Expenses
 
